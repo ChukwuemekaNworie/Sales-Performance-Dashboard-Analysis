@@ -20,7 +20,7 @@ This dashboard focuses on analyzing sales performance, customer behavior, region
 
 The tool enables stakeholders to filter by region, track revenue growth over time, identify top-performing customer segments, and monitor product category performance.
 
-![WELL-UP Sales Dashboard](Images/WELL-UP_Dashboard.jpeg)
+<!--![WELL-UP Sales Dashboard](Images/WELL-UP_Dashboard.jpeg) -->
 
 ---
 
